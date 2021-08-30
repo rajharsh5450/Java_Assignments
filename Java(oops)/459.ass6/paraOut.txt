@@ -1,0 +1,18 @@
+The no. of words starting with A in line 1 is: 0
+The no. of words starting with E in line 1 is: 1
+The no. of words starting with I in line 1 is: 0
+The no. of words starting with O in line 1 is: 0
+The no. of words starting with u in line 1 is: 0
+Prepositions in line 1 is: 0
+The no. of words starting with A in line 2 is: 0
+The no. of words starting with E in line 2 is: 1
+The no. of words starting with I in line 2 is: 0
+The no. of words starting with O in line 2 is: 0
+The no. of words starting with u in line 2 is: 0
+Prepositions in line 2 is: 0
+The no. of words starting with A in line 3 is: 1
+The no. of words starting with E in line 3 is: 0
+The no. of words starting with I in line 3 is: 3
+The no. of words starting with O in line 3 is: 2
+The no. of words starting with u in line 3 is: 0
+Prepositions in line 3 is: 3
